@@ -194,21 +194,7 @@ mindmap
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=faisalhossain0&theme=gelbooru" alt="Visitor Badge"/>
-</div>
-
-###
-
 <h2 align="left"></h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisalhossain0/faisalhossain0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalhossain0/faisalhossain0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faisalhossain0/faisalhossain0/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
