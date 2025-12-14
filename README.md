@@ -108,6 +108,37 @@
 
 <p align="left">React   12 hrs 30 mins  ████████████░░░░░░░░░  60.5%<br>JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  20.8%<br>TypeScript        2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░  13.4%<br>CSS          1 hr 10 mins    ░░░░░░░░░░░░░░░░░░░░░   5.3%</p>
 
+---
+
+## My Development Philosophy
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Development))
+    Quality
+      Clean Code
+      Best Practices
+      Documentation
+    Performance
+      Optimization
+      Scalability
+      Efficiency  
+    User Experience
+      Accessibility
+      Responsiveness
+      Intuitive Design
+    Innovation
+      Latest Tech
+      Creative Solutions
+      Continuous Learning
+```
+
+</div>
+
+---
+
 ###
 
 <h2 align="left">Education & Featured Projects</h2>
