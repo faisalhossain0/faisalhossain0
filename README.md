@@ -194,14 +194,6 @@ mindmap
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%F0%9F%A4%8D%20JazakAllahu%20Khair%20for%20visiting%20%E2%80%94%20may%20Allah%20bless%20you.&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
 </div>
